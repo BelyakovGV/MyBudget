@@ -1,0 +1,6 @@
+D:\Work\DB\MyBudget\bin\Debug\MyBudget.dacpac
+D:\Work\DB\MyBudget\bin\Debug\MyBudget.dll
+D:\Work\DB\MyBudget\bin\Debug\MyBudget.pdb
+D:\Work\DB\MyBudget\obj\Debug\MyBudget.sqlproj.AssemblyReference.cache
+D:\Work\DB\MyBudget\obj\Debug\MyBudget.dll
+D:\Work\DB\MyBudget\obj\Debug\MyBudget.pdb
