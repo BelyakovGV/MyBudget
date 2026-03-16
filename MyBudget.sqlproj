@@ -56,13 +56,11 @@
     <Folder Include="Properties" />
     <Folder Include="OutPartitioning" />
     <Folder Include="Snapshots" />
-    <Folder Include="Indexes" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="In.sql" />
     <Build Include="Out.sql" />
     <Build Include="OutPartitioning\OutPartition.sql" />
-    <Build Include="Indexes\IX_Out_Dt_Id.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SqlSchemaCompare.scmp" />

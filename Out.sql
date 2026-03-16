@@ -12,3 +12,5 @@ GO
 ALTER TABLE [dbo].[Out] ADD  CONSTRAINT [DF_Out_CreatedDate]  DEFAULT (sysdatetime()) FOR [CreatedDate]
 GO
 
+CREATE CLUSTERED INDEX IX_Out_Dt_Id ON [dbo].[Out] ([Dt] ASC, [Id] ASC) ON [Out_PS] ([Dt]);
+GO

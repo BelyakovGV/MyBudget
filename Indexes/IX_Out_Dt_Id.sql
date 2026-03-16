@@ -1,1 +1,0 @@
-﻿CREATE CLUSTERED INDEX IX_Out_Dt_Id ON [dbo].[Out] ([Dt] ASC, [Id] ASC) ON [Out_PS] ([Dt]);
