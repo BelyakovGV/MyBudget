@@ -56,14 +56,20 @@
     <Folder Include="Properties" />
     <Folder Include="OutPartitioning" />
     <Folder Include="Snapshots" />
+    <Folder Include="Views" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="In.sql" />
     <Build Include="Out.sql" />
     <Build Include="OutPartitioning\OutPartition.sql" />
+    <Build Include="Views\RepInOut.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SqlSchemaCompare.scmp" />
     <None Include="Snapshots\MyBudget_20260316_18-11-49.dacpac" />
+    <None Include="Snapshots\MyBudget_20260316_22-20-31.dacpac" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="MyBudget.refactorlog" />
   </ItemGroup>
 </Project>

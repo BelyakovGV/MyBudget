@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Work\\DB\\MyBudget\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1297BD9F-50AE-4EC7-A530-DA6260B72250}|MyBudget.sqlproj|D:\\Work\\DB\\MyBudget\\SqlSchemaCompare.scmp||{00E9D2E3-9044-47D1-978C-BE2825249219}",
-      "RelativeMoniker": "D:0:0:{1297BD9F-50AE-4EC7-A530-DA6260B72250}|MyBudget.sqlproj|solutionrelative:SqlSchemaCompare.scmp||{00E9D2E3-9044-47D1-978C-BE2825249219}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,19 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlSchemaCompare.scmp",
-              "DocumentMoniker": "D:\\Work\\DB\\MyBudget\\SqlSchemaCompare.scmp",
-              "RelativeDocumentMoniker": "SqlSchemaCompare.scmp",
-              "ToolTip": "D:\\Work\\DB\\MyBudget\\SqlSchemaCompare.scmp*",
-              "RelativeToolTip": "SqlSchemaCompare.scmp*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-16T11:49:40.832Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
